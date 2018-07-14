@@ -1,2 +1,2 @@
 # Astar_Maze_Pygame
-check assignment2 for problem description
+Implementation of A start algorithm that computes shortest path from a start point to a destination point in a 2D maze. 
